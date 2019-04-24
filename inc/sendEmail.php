@@ -51,7 +51,7 @@ if($_POST) {
       $mail = mail($siteOwnersEmail, $subject, $message, $headers);
 
 		if ($mail) { echo "OK"; }
-      else { echo "Something went wrong. Please try again."; }
+      else { echo "Something went wrong and I know why, Just send me a direct mail while I fix this."; }
 		
 	} # end if - no validation error
 
