@@ -2143,7 +2143,7 @@ header .logo a {
   padding-top: 10.2rem;
   padding-bottom: 9rem;
   text-align: center;
-  background: url("../bggreen.jpg");
+  background: url("/bggreen.jpg");
   background-size: cover;
 }
 #cta p.lead {
